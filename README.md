@@ -1,5 +1,11 @@
 ![Commit Stage](https://github.com/pebrisulistiyo/order-service/actions/workflows/commit-stage.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pebrisulistiyo_order-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pebrisulistiyo_order-service)
 # order-service
+
+### Test the project
+```shell
+mvn test
+```
 
 ### Run apps with Docker
 Build Image Project
